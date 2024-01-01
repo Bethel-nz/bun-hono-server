@@ -2,7 +2,6 @@ import  Bun  from 'bun';
 import path from 'path';
 
 const db_path = path.join('./src/', 'data', 'db.json')
-console.log(db_path)
 
 export async function writeToFile<T extends object>(data:T): Promise<void> {
  try {
