@@ -1,0 +1,44 @@
+[
+	{
+		"title": "The Flash",
+		"year": "2023",
+		"genre": "Action, Family, Adventure",
+		"rating": "6.4",
+		"id": 1
+	},
+	{
+		"id": 2,
+		"title": "Into The Spider Verse",
+		"year": "2018",
+		"genre": "Action, Family, Adventure",
+		"rating": "8.4"
+	},
+	{
+		"title": "Across The Spider Verse",
+		"year": "2023",
+		"genre": "Action, Adventure",
+		"rating": "8.8",
+		"id": 3
+	},
+	{
+		"title": "Avatar 2",
+		"year": "2020",
+		"genre": "Action, Adventure, Fantasy",
+		"rating": "7.9",
+		"id": 4
+	},
+	{
+		"title": "The Avengers: End game",
+		"year": "2020",
+		"genre": "Action, Adventure, Fantasy",
+		"rating": "7.9",
+		"id": 5
+	},
+	{
+		"title": "The Avengers: Infinity war",
+		"year": "2020",
+		"genre": "Action, Adventure, Fantasy",
+		"rating": "7.9",
+		"id": 6
+	}
+]
